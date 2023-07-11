@@ -28,7 +28,7 @@ function Calc(){
             <input type="button" value='+' className='number' onClick={handleClick} />
             <input type="button" value='-' className='number' onClick={handleClick} />
             <input type="button" value='*' className='number' onClick={handleClick} />
-            <input type="button" value='÷' className='number' onClick={handleClick} />
+            <input type="button" value='/' className='number' onClick={handleClick} />
             <input type="button" value='%' className='number' onClick={handleClick} />
             <input type="button" value='.'  className='number' onClick={handleClick} />
             <input type="button" value='clear' className='number number1' onClick={handleClear} />
